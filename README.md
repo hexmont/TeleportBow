@@ -1,5 +1,21 @@
 ![Logo](https://i.imgur.com/0v57pzS.png)
 
+---
+
+## Notice: Repository Migration
+
+**All my active development has moved to [git.alemonta.dev](https://git.alemonta.dev)** — my self-hosted Gitea instance.
+
+Repositories on GitHub are now archived and will no longer receive updates.
+
+You can find this project @ [git.alemonta.dev/alemontamd5/teleportbow.git](https://git.alemonta.dev/alemontamd5/teleportbow.git)
+
+You can find current and continued projects at:
+
+➡️ [https://git.alemonta.dev/alemontamd5](https://git.alemonta.dev/alemontamd5)
+
+---
+
 #### TeleportBow
 Check the plugin on [SpigotMC](https://www.spigotmc.org/resources/teleportbow-teleport-yourself-with-just-a-bow.108619/ "SpigotMC.org")
 
